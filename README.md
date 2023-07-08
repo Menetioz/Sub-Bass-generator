@@ -2,18 +2,6 @@
 
 The 808 Sub Bass Generator is a Python script that allows users to generate customized 808 sub bass sounds suitable for hip-hop and trap music production. With this script, you can create impactful and textured sub bass lines to enhance the low-end presence of your tracks.
 
-## Features
-
-- **808 Sub Bass Generation**: Utilize advanced algorithms to generate authentic and versatile 808 sub bass sounds tailored specifically for hip-hop and trap production.
-
-- **Envelope Shaping**: Precisely control the dynamics of the sub bass sounds using adjustable attack, decay, sustain, and release parameters. Shape the sub bass to fit your desired musical arrangement.
-
-- **Texture and Character**: Add texture and character to the sub bass sounds using built-in techniques such as distortion and modulation. Infuse unique tonal qualities into your sub bass lines.
-
-- **Pitch Slide Effect**: Apply a pitch slide effect to smoothly glide between notes and create dynamic transitions. Add movement and interest to your bass lines.
-
-- **Easy-to-Use**: The script provides a straightforward interface for adjusting parameters and generating multiple variations of sub bass sounds. The intuitive controls make it accessible to both beginners and experienced producers.
-
 ## Requirements
 
 - Python 3.x
